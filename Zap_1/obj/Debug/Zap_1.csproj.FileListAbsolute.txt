@@ -1,0 +1,104 @@
+C:\Users\user\Desktop\Zap_1\bin\Debug\Zap_1.exe.config
+C:\Users\user\Desktop\Zap_1\bin\Debug\Zap_1.exe
+C:\Users\user\Desktop\Zap_1\bin\Debug\Zap_1.pdb
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Zap_1\obj\Debug\AddEditPage.g.cs
+C:\Users\user\Desktop\Zap_1\obj\Debug\HotelsPage.g.cs
+C:\Users\user\Desktop\Zap_1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Zap_1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1_MarkupCompile.cache
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1_MarkupCompile.lref
+C:\Users\user\Desktop\Zap_1\obj\Debug\AddEditPage.baml
+C:\Users\user\Desktop\Zap_1\obj\Debug\HotelsPage.baml
+C:\Users\user\Desktop\Zap_1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.g.resources
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.Properties.Resources.resources
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.exe
+C:\Users\user\Desktop\Zap_1\obj\Debug\Zap_1.pdb
+C:\Users\user\Desktop\Zap_1\obj\Debug\App.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\Zap_1.exe.config
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\Zap_1.exe
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\Zap_1.pdb
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\EntityFramework.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\EntityFramework.xml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.csproj.AssemblyReference.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\AddEditPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\HotelsPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\MainWindow.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\App.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1_Content.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1_MarkupCompile.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1_MarkupCompile.lref
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\App.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\AddEditPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\HotelsPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\MainWindow.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.g.resources
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.Properties.Resources.resources
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.csproj.GenerateResource.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.csproj.CoreCompileInputs.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.csproj.CopyComplete
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.exe
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец\Лабы\Zap_1\obj\Debug\Zap_1.pdb
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\Zap_1.exe.config
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\Zap_1.exe
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\Zap_1.pdb
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\EntityFramework.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\EntityFramework.xml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.csproj.AssemblyReference.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\AddEditPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\HotelsPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\MainWindow.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\App.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1_Content.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1_MarkupCompile.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1_MarkupCompile.lref
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\App.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\AddEditPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\HotelsPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\MainWindow.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.g.resources
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.Properties.Resources.resources
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.csproj.GenerateResource.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.csproj.CoreCompileInputs.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.csproj.CopyComplete
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.exe
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1\Zap_1\obj\Debug\Zap_1.pdb
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\Zap_1.exe.config
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\Zap_1.exe
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\Zap_1.pdb
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\EntityFramework.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\EntityFramework.xml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.csproj.AssemblyReference.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\AddEditPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\HotelsPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\MainWindow.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\App.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1_Content.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1_MarkupCompile.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1_MarkupCompile.lref
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\App.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\AddEditPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\HotelsPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\MainWindow.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.g.resources
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.Properties.Resources.resources
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.csproj.GenerateResource.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.csproj.CoreCompileInputs.cache
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.csproj.CopyComplete
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.exe
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.pdb
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\TourPage.g.cs
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\TourPage.baml
+C:\Users\borod\OneDrive\Рабочий стол\ThirdDust\Запорожец_БизнесРешения\1-2\Zap_1\obj\Debug\Zap_1.csproj.SuggestedBindingRedirects.cache
